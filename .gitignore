@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+data/study_data.json
+
+.vscode/
+
+temp/
